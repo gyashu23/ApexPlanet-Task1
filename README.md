@@ -20,22 +20,7 @@ This project is a simple smartwatch showcase website built using HTML, CSS, and 
 - CSS3
 - JavaScript
 
-# Project Structure
-
-index.html
-styles.css
-script.js
-smartwatch.png
-watch2.png
-watch3.png
-watch4.png
-watchbanner.png
-
 # How to Run
 
 1. Download or clone this repository.
 2. Open "index.html" in your web browser.
-
-# Author
-
-Yashaswini Guduru
