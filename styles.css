@@ -127,6 +127,12 @@ a:hover{
 .button2:hover{
     background-color: #1a2e9c;
 }
+.button-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
 .products{
     display: flex;
     gap: 30px;
