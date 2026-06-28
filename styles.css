@@ -68,13 +68,15 @@ body{
     width: 100%;
 }
 .container{
-    width: 400px;
+    width: 100%;
+    max-width: 400px;
+    min-height: 520px;
     background-color: #fff;
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 15px 35px rgba(0,0,0,0.35);
     text-align: center;
-    height:520px;
+    height:auto;
 }
 h1{
     margin-bottom: 20px;
